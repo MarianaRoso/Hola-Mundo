@@ -1,2 +1,2 @@
 # Hola-Mundo
-Ejercicio de aplicación
+Ejercicio de aplicación del tema repositorios
